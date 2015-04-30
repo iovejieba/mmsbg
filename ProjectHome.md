@@ -1,0 +1,1 @@
+mms bg for auto send msg and auto dial
